@@ -16,8 +16,9 @@ Skill de Claude para organizar el tiempo de una **pareja**, una **familia con hi
    renovaciones, salud, tecnología) en un calendario aparte.
 
 ## Requisito
-Funciona junto con la skill `planificador-calendario-secciones`, que genera los archivos
-`.ics` (uno por sección, cada uno con su color). Instala ambas.
+ Funciona junto con la skill
+   [`planificador-calendario-secciones`](https://github.com/PANICDV/planificador-calendario-secciones),
+   que genera los archivos `.ics` (uno por sección, cada uno con su color). Instala ambas.
 
 ## Instalación
 - **Claude (web/escritorio)**: descarga el ZIP de esta carpeta y súbelo como skill en la
